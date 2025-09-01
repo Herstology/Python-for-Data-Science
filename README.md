@@ -21,4 +21,4 @@ This dataset of breast cancer patients was obtained from Kaggle.com. It was orig
 ### Models:
 - Logistic Regression
 - Support Vector Machine
-- Time Series Analysis
+- LSTM 
